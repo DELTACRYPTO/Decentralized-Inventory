@@ -1,1 +1,1 @@
-# Decentralized-Inventory
+# Decentralized-Inventory CONTRACT ADDRESS ON BASE 0x7c1fE5Eabc516B8C8A8c029718dB5f2299cf895a
